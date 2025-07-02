@@ -2,6 +2,19 @@
 
 本文件记录了 xAI 公司及其 Grok 模型发展的关键里程碑。
 
+## Grok 产品形态
+
+Grok 目前提供多种产品形态，覆盖不同的用户需求和使用场景：
+
+### 用户端产品
+- **X.com 和 X App**：在 X 平台（原 Twitter）的网页端和移动端集成 Grok 功能
+- **Grok.com 网站**：独立的 Grok 网页应用
+- **Grok iOS 应用**：专门的 iOS 移动应用
+- **Grok Android 应用**：专门的 Android 移动应用
+
+### 开发者产品
+- **xAI API**：面向开发者的 API 接口（https://api.x.ai）
+
 ## 时间线图
 
 ```mermaid
