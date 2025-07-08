@@ -16,6 +16,17 @@ xAI的使命是：理解宇宙的本质。
 
 从第一性原理出发进行推理 + 没有目标是过于宏伟的 + 快速行动，解决问题
 
+## Grok
+
+进入 2025年7月份以来，需要关注Grok 4。直接从 Grok 3 --> Grok 4。
+
+当前 Grok 的版本是 2025年02月17号 发布的 3系列：
+
+grok-3-latest grok 3
+grok-3-fast-latest grok 3 fast
+grok-3-mini-latest grok 3 mini
+grok-3-mini-fast-latest grok 3 mini fast
+
 ## Grok 产品形态
 
 Grok目前提供的产品形态整体分为3个系列，一个是X系列，一个是xAI系列（Grok），一个是API。
@@ -70,12 +81,3 @@ timeline
 
 - Grok当下的模型名称相对简单一些。需要注意的是有一些模型已经弃用，比如 grok beta。
 - 另外：API的形式会晚于模型的发布。比如在 2025年4月1号的时候，grok 最新的api 是grok-2-1212，因为grok3的API 还没发布。
-
-进入 2025年7月份以来，需要关注Grok 4。直接从 Grok 3 --> Grok 4。
-
-当前 Grok 的版本是 2025年02月17号 发布的 3系列：
-
-grok-3-latest grok 3
-grok-3-fast-latest grok 3 fast
-grok-3-mini-latest grok 3 mini
-grok-3-mini-fast-latest grok 3 mini fast

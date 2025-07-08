@@ -22,11 +22,11 @@
     },
     {
       "date": "2024年08月13日",
-      "description": "Grok-2 Grok-2 mini"
+      "description": "Grok-2 Grok-2 mini。发布 Grok-2 的早期预览版"
     },
     {
       "date": "2024年05月26日",
-      "description": "60亿美元融资 B轮"
+      "description": "60亿美元融资 B轮。从 2023 年 7 月公司成立，到 11 月在 X 上发布 Grok-1，再到近期发布的具备长文本处理能力的改进版 Grok-1.5 模型，以及支持图像理解的 Grok-1.5V"
     },
     {
       "date": "2024年05月15日",
@@ -34,15 +34,17 @@
     },
     {
       "date": "2024年04月12日",
-      "description": "Grok-1.5V"
+      "description": "Grok-1.5 Vision Preview"
     },
     {
       "date": "2024年03月28日",
-      "description": "Grok-1.5"
+      "description": "隆重推出 Grok-1.5，我们最新能够进行长上下文理解和高级推理的模型",
+      "next": "Grok-1.5 将在未来几天内向我们在 𝕏 平台上的早期测试者和现有 Grok 用户提供",
+      "comparisons": "grok1 grok1.5 claude2 claude 3 sonnet gemini pro 1.5 gpt4 claude 3 opus"
     },
     {
       "date": "2024年03月17日",
-      "description": "Grok-1 开源发布"
+      "description": "拥有 3140 亿参数的混合专家模型 Grok-1。xAI 于 2023 年 10 月在 JAX 和 Rust 的基础上使用自定义训练堆栈从头开始训练"
     },
     {
       "date": "2023年12月07日",
@@ -50,11 +52,12 @@
     },
     {
       "date": "2023年11月03日",
-      "description": "Grok-1的抢先体验"
+      "description": "发布Grok，驱动Grok的引擎是 grok-1。从7月12到1103，四个月的开发，Grok-1四个月内迭代了很多次",
+      "comparisons": "grok0 33b 、llama2 70b、gpt3.5、grok1 、claude2、gpt4"
     },
     {
       "date": "2023年08月18日",
-      "description": "完成旗舰模型Grok-0的训练 包含 330 亿个参数"
+      "description": "宣布成立xAI后，训练了一个拥有 330亿参数的原型LLM (Grok-0) 能力和 LLaMA 2 70B的能力"
     },
     {
       "date": "2023年07月12日",
