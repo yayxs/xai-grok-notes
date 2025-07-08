@@ -1,19 +1,35 @@
-# Grok 模型发布时间线
+## 心智
 
-本文件记录了 xAI 公司及其 Grok 模型发展的关键里程碑。
+时刻记住：这是马斯克的作品。xAI目前来看是第一梯队的大语言模型厂商。和谷歌、和OpenAI、和Anthropic是属于一个级别的。
+
+# xAI
+
+可以在 --> [company](https://x.ai/company) 了解xAI这家公司。我们都知道马斯克非常喜欢**X**。所以不出意外，在AI方面的公司也是叫x系列。
+
+- 公司成立的时间是在：2023年7月12日。
+
+《银河系漫游指南》是马斯克非常喜欢的一部科幻小说。xAI的使命是“理解宇宙的本质，了解人类的存在目的”。这也是《银河系漫游指南》的主题。“42”则是书中一个著名的梗，被称为“生命、宇宙及一切的终极答案”（The Answer to the Ultimate Question of Life, the Universe, and Everything）。
+
+宣布成立的时间是 23（2023年） + 7 + 12 = 42。选择这天也是特别用心准备的。
 
 ## Grok 产品形态
 
-Grok 目前提供多种产品形态，覆盖不同的用户需求和使用场景：
+Grok目前提供的产品形态整体分为3个系列，一个是X系列，一个是xAI系列（Grok），一个是API。
 
-### 用户端产品
-- **X.com 和 X App**：在 X 平台（原 Twitter）的网页端和移动端集成 Grok 功能
-- **Grok.com 网站**：独立的 Grok 网页应用
-- **Grok iOS 应用**：专门的 iOS 移动应用
-- **Grok Android 应用**：专门的 Android 移动应用
+- X 系列：
 
-### 开发者产品
-- **xAI API**：面向开发者的 API 接口（https://api.x.ai）
+  - 网页版本的X x.com ，X 平台（原 Twitter）的网页端
+  - X App，X 平台的移动端应用 / 之前叫Twitter APP
+
+- xAI 系列（Grok）：
+
+  - grok.com 网站：独立的 Grok 网页应用
+  - Grok iOS 应用：专门的 iOS 移动应用
+  - Grok Android 应用：专门的 Android 移动应用
+
+- xAI API：
+
+  - xAI API：面向开发者的 API 接口（https://api.x.ai）
 
 ## 时间线图
 
