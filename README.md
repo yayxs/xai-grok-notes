@@ -89,3 +89,24 @@ API的形式会晚于模型的发布。比如在 2025年4月1号的时候，grok
 - 2024-10-22 Grok模型的API访问最早于2024年10月22日由埃隆·马斯克的人工智能公司xAI正式发布
 - 2024-10 正式推出了名为“grok-beta”的API模型，用户需要登录xAI账户申请访问权限
 - 2025-4 逐步开放了Grok 3 API接口服务
+
+## 周期性分析
+
+公司成立 → Grok-0：1.2个月 （快速启动期）
+Grok-0 → Grok-1：2.5个月 （初期迭代）
+Grok-1 → Grok-1.5：4.8个月 （成熟期开始）
+Grok-1.5 → Grok-2：4.5个月 （稳定周期）
+Grok-2 → Grok-3：6.2个月 （复杂功能期）
+Grok-3 → Grok-4：4.7个月 （回归稳定）
+
+🔄 周期性规律
+初期快速迭代：前两个版本间隔较短（1-2个月）
+中期稳定周期：进入4-5个月的相对稳定发布周期
+偶有延长：Grok-2到Grok-3耗时最长（6.2个月），可能因为功能复杂度增加
+趋于稳定：整体趋势是4-5个月的发布周期
+
+![](https://mdn.alipayobjects.com/one_clip/afts/img/Z4YHQbWfkXIAAAAARkAAAAgAoEACAQFr/original)
+
+![](https://mdn.alipayobjects.com/one_clip/afts/img/trIpSaqvlxMAAAAAR4AAAAgAoEACAQFr/original)
+
+![](https://mdn.alipayobjects.com/one_clip/afts/img/o97bQpne4YAAAAAARwAAAAgAoEACAQFr/original)
