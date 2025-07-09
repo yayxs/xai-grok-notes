@@ -2,6 +2,8 @@
 
 时刻记住：这是马斯克的作品。xAI目前来看是第一梯队的大语言模型厂商。和谷歌、和OpenAI、和Anthropic是属于一个级别的。
 
+![](https://pbs.twimg.com/media/F02nKPoaIAI61zl?format=jpg&name=large)
+
 # xAI
 
 可以在 --> [company](https://x.ai/company) 了解xAI这家公司。我们都知道马斯克非常喜欢**X**。所以不出意外，在AI方面的公司也是叫x系列。
