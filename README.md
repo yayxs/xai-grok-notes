@@ -20,14 +20,16 @@ xAI的使命是：理解宇宙的本质。
 
 ## Grok
 
-进入 2025年7月份以来，需要关注Grok 4。直接从 Grok 3 --> Grok 4。
+进入 2025年7月份以来，需要关注Grok 4。直接从 Grok 3 --> Grok 4。马斯克说在北京时间07月10号发布
 
-当前 Grok 的版本是 2025年02月17号 发布的 3系列：
+上一版本：2025年02月17号 发布的 3系列：
 
+```
 grok-3-latest grok 3
 grok-3-fast-latest grok 3 fast
 grok-3-mini-latest grok 3 mini
 grok-3-mini-fast-latest grok 3 mini fast
+```
 
 ## Grok 产品形态
 
