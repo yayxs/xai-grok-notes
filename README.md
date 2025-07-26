@@ -1,12 +1,14 @@
 ## 心智
 
-时刻记住：这是马斯克的作品。xAI目前来看是第一梯队的大语言模型厂商。和谷歌、和OpenAI、和Anthropic是属于一个级别的。
+xAI目前来看是第一梯队的大语言模型厂商。和谷歌、和OpenAI、和Anthropic是属于一个级别的。
 
 ![](https://pbs.twimg.com/media/F02nKPoaIAI61zl?format=jpg&name=large)
 
 # xAI
 
 可以在 --> [company](https://x.ai/company) 了解xAI这家公司。我们都知道马斯克非常喜欢**X**。所以不出意外，在AI方面的公司也是叫x系列。
+
+2 月 27 日，硅谷科技媒体 The Information 报道，马斯克最近几周一直在接触一些 AI 工程师，打算组建新的 AI 实验室来做 ChatGPT 竞品。
 
 - 公司成立的时间是在：2023年7月12日。
 
